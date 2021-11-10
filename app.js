@@ -1,4 +1,4 @@
-let result= confirm('i think your name sheryal');
+let result= confirm('i think your name subhan');
 
 var dod= alert ('ja yr tu chutia ha');
 
